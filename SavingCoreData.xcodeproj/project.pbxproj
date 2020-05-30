@@ -14,6 +14,9 @@
 		CE7CF1452344C7ED00487736 /* SavingCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CE7CF1432344C7ED00487736 /* SavingCoreData.xcdatamodeld */; };
 		CE7CF1472344C7EE00487736 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE7CF1462344C7EE00487736 /* Assets.xcassets */; };
 		CE7CF14A2344C7EE00487736 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7CF1482344C7EE00487736 /* LaunchScreen.storyboard */; };
+		CE7CF1532344CBD600487736 /* Person+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7CF1512344CBD600487736 /* Person+CoreDataClass.swift */; };
+		CE7CF1542344CBD600487736 /* Person+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7CF1522344CBD600487736 /* Person+CoreDataProperties.swift */; };
+		CE7CF1562344D04E00487736 /* PersistenceServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7CF1552344D04E00487736 /* PersistenceServer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		CE7CF1462344C7EE00487736 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE7CF1492344C7EE00487736 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE7CF14B2344C7EE00487736 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE7CF1512344CBD600487736 /* Person+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Person+CoreDataClass.swift"; sourceTree = "<group>"; };
+		CE7CF1522344CBD600487736 /* Person+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Person+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		CE7CF1552344D04E00487736 /* PersistenceServer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistenceServer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +72,9 @@
 				CE7CF1482344C7EE00487736 /* LaunchScreen.storyboard */,
 				CE7CF14B2344C7EE00487736 /* Info.plist */,
 				CE7CF1432344C7ED00487736 /* SavingCoreData.xcdatamodeld */,
+				CE7CF1512344CBD600487736 /* Person+CoreDataClass.swift */,
+				CE7CF1522344CBD600487736 /* Person+CoreDataProperties.swift */,
+				CE7CF1552344D04E00487736 /* PersistenceServer.swift */,
 			);
 			path = SavingCoreData;
 			sourceTree = "<group>";
@@ -143,6 +152,9 @@
 			files = (
 				CE7CF13F2344C7ED00487736 /* ViewController.swift in Sources */,
 				CE7CF13B2344C7ED00487736 /* AppDelegate.swift in Sources */,
+				CE7CF1542344CBD600487736 /* Person+CoreDataProperties.swift in Sources */,
+				CE7CF1532344CBD600487736 /* Person+CoreDataClass.swift in Sources */,
+				CE7CF1562344D04E00487736 /* PersistenceServer.swift in Sources */,
 				CE7CF1452344C7ED00487736 /* SavingCoreData.xcdatamodeld in Sources */,
 				CE7CF13D2344C7ED00487736 /* SceneDelegate.swift in Sources */,
 			);
