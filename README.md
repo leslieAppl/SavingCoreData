@@ -1,15 +1,16 @@
 # Saving Core Data
 Youtube - Core Data: Saving to the Device | Swift 4, Xcode 9 | By Kilo Loco
 
-Practicing List
+## CoreData - Object Model
+## CoreData - PersistenceService.saveContext()
+## CoreData - PersistenceService.context.fetch(fetchRequest)
 
-Navigation Bar
+## Others:
+- Practicing List
 
-UIAlertControll
+- Navigation Bar
 
-UITableView
+- UIAlertControll
 
-CoreData - Object Model
-CoreData - PersistenceService.saveContext()
-CoreData - PersistenceService.context.fetch(fetchRequest)
+- UITableView
 
